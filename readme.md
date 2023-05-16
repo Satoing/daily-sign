@@ -11,4 +11,4 @@
 
 直接python运行即可，可以在Linux中设置定时任务。我是直接用宝塔做的。
 
-除了python环境，还需要安装chrome-driver，具体安装方法自己谷歌。
+因为使用的是selenium，所以除了python环境，还需要安装chrome-driver，具体安装方法自己谷歌。
